@@ -1,4 +1,6 @@
-#include <stdio.h>
+//#include <stdio.h>
+#include "my_includes.h"
+
 
 int main(void)
 {
